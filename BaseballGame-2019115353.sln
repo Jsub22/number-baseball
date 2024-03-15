@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseballGameClient", "BaseballGame-2019115353\BaseballGameClient.csproj", "{B92D19AF-D984-4978-BFD6-410E06DC6B82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseballGameServer", "BaseballGameServer\BaseballGameServer.csproj", "{0A6D58A9-C2C6-426E-8FDB-09CA9A655ED0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B92D19AF-D984-4978-BFD6-410E06DC6B82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B92D19AF-D984-4978-BFD6-410E06DC6B82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B92D19AF-D984-4978-BFD6-410E06DC6B82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B92D19AF-D984-4978-BFD6-410E06DC6B82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A6D58A9-C2C6-426E-8FDB-09CA9A655ED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A6D58A9-C2C6-426E-8FDB-09CA9A655ED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A6D58A9-C2C6-426E-8FDB-09CA9A655ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A6D58A9-C2C6-426E-8FDB-09CA9A655ED0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B904F40-06DE-46C1-8A20-CF351D4A4782}
+	EndGlobalSection
+EndGlobal

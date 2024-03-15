@@ -1,0 +1,10 @@
+C:\Users\82107\source\repos\BaseballGame-2019115353\BaseballGameServer\bin\Debug\BaseballGameServer.exe.config
+C:\Users\82107\source\repos\BaseballGame-2019115353\BaseballGameServer\bin\Debug\BaseballGameServer.exe
+C:\Users\82107\source\repos\BaseballGame-2019115353\BaseballGameServer\bin\Debug\BaseballGameServer.pdb
+C:\Users\82107\source\repos\BaseballGame-2019115353\BaseballGameServer\obj\Debug\BaseballGameServer.csprojAssemblyReference.cache
+C:\Users\82107\source\repos\BaseballGame-2019115353\BaseballGameServer\obj\Debug\BaseballGameServer.Properties.Resources.resources
+C:\Users\82107\source\repos\BaseballGame-2019115353\BaseballGameServer\obj\Debug\BaseballGameServer.ServerForm.resources
+C:\Users\82107\source\repos\BaseballGame-2019115353\BaseballGameServer\obj\Debug\BaseballGameServer.csproj.GenerateResource.cache
+C:\Users\82107\source\repos\BaseballGame-2019115353\BaseballGameServer\obj\Debug\BaseballGameServer.csproj.CoreCompileInputs.cache
+C:\Users\82107\source\repos\BaseballGame-2019115353\BaseballGameServer\obj\Debug\BaseballGameServer.exe
+C:\Users\82107\source\repos\BaseballGame-2019115353\BaseballGameServer\obj\Debug\BaseballGameServer.pdb
